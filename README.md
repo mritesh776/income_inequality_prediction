@@ -3,7 +3,7 @@ A machine learning approach to predict income inequality.
 
 ---
 ## Description
-The Problem of income being distributed in an **uneven** manner among a population is a growing problem in developing nations across the world.
+The problem of income being distributed in an **uneven** manner among a population is a growing problem in developing nations across the world.
 
 With the rapid rise of **AI** and **worker automation**, this problem could continue to grow if steps are not taken to address the issue.
 
